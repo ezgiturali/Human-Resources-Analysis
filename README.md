@@ -1,3 +1,2 @@
 # Human-Resources-Analysis
-Hypothetical company has 4000 employees and 15% attrition rate. We try to find a logistic model that decreases attrition rate. 
-Data is taken from https://www.kaggle.com/vjchoudhary7/hr-analytics-case-study
+The company has 4000 employees and 15% attrition rate. They wanted to decrease attrition rate. They wanted to know the departments which has problems. Also they wanted a policy suggestion.
